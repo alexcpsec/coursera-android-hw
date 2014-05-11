@@ -1,0 +1,4 @@
+03-16 22:37:05.124: I/Lab-Location(2069): Entered footerView.OnClickListener.onClick()
+03-16 22:37:05.634: I/Lab-Location(2069): Starting Place Download
+03-16 22:37:07.014: I/Lab-Location(2069): Entered addNewPlace()
+03-16 22:37:11.124: I/Lab-Location(2069): Place: The Greenhouse Country: United States
